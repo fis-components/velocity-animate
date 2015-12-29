@@ -4,9 +4,9 @@
     "repos": "https://github.com/julianshapiro/velocity.git",
     "main": "velocity.js",
     "tag": "master",
+    "reposType": "npm",
     "dependencies": {
         "jquery": ">= 1.4.3"
     },
-    "reposType": "npm",
-    "version": "1.2.3"
+    "version": "1.0.0"
 }
